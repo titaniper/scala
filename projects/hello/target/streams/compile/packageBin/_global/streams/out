@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/kang/Desktop/workspace/labs/public-study/backend/scala/projects/hello/target/scala-2.13/scalahttpserverexample_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HttpServerExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kang/Desktop/workspace/labs/public-study/backend/scala/projects/hello/target/scala-2.13/classes/HttpServerExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HttpServerExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kang/Desktop/workspace/labs/public-study/backend/scala/projects/hello/target/scala-2.13/classes/HttpServerExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
